@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+One Apple a Day Keeps The Doctor Away.
 Use the left arrow to go back!
